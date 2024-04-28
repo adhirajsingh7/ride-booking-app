@@ -1,0 +1,16 @@
+{
+  "start_location": "start",
+  "drop_off_locations": [
+    {
+      "drop_off": "some place",
+      "fare": 123
+    }
+  ],
+  "destination": "end",
+  "car_details": "ObjectId car model",
+  "rider_details": "ObjectId user model",
+  "fare": 123,
+  "seats_available": 4,
+  "passengers": ["ObjectId user model"],
+  "status": "active"
+}

@@ -1,0 +1,10 @@
+{
+  "pickup_location": "start",
+  "drop_off_location": "end",
+  "car_details": "ObjectId car model",
+  "rider_details": "ObjectId user model",
+  "user_details": "ObjectId user model",
+  "fare": 123,
+  "rating": 0,
+  "status": "active"
+}

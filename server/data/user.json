@@ -1,0 +1,16 @@
+{
+  "username": "b",
+  "email": "b",
+  "password": "b",
+  "full_name": "b",
+  "avatar": "",
+  "mobile": 1,
+  "address": {
+    "pincode": "0000",
+    "state": "HP",
+    "city": "Una"
+  },
+  "role": "user",
+  "status": "active",
+  "total_trips": 0
+}

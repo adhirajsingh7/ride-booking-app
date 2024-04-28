@@ -1,0 +1,11 @@
+{
+  "owner_id": "",
+  "image": "",
+  "brand": "BMW",
+  "model": "X1",
+  "plate_no": "HP 1435",
+  "seats_available": 4,
+  "airbags": 3,
+  "transmission": "mannual",
+  "status": "active"
+}
